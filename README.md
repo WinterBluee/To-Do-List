@@ -1,0 +1,1 @@
+Nesse projeto usei o React.js para criar uma To-Do-List básica para fins de estudo, com html e css estilizei com conceitos comums e trabalhei com as funçãos e variavies para incrimentar com a lógica do javascript.
